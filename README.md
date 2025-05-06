@@ -7,18 +7,19 @@
 ## ⚠️ 重要需求条件 & 免责声明
 
 1. **一个有效手机号**（任意国家，用于注册 Apple ID）
-2. **一台 iOS 设备**（iPhone 或 iPad，iOS 16 以上，能下载新版 ChatGPT）
+2. **一台 iOS 设备**（iPhone 或 iPad，iOS/iPad OS 16 以上，能下载新版 ChatGPT）
 3. 本方法属于**策略性地区订阅优化**，并非破解或绕过验证。
 4. 所有充值行为请谨慎甄别渠道，如遇损失与本文作者无关。
-5. 每个 Apple ID **只能对应一个 ChatGPT 会员**，请避免频繁切区或多次尝试。
+5. 每个 Apple ID **只能同时对应一个 ChatGPT 会员**。
+6. 请避免app store频繁切区或多次尝试。
 
 ---
 
 ## ✅ 步骤说明
 
-### 1. 注册尼日利亚 Apple ID（推荐路径：**先注册中国区再转区**）
+### 1. 注册尼日利亚 Apple ID（推荐路径：**先注册国区再转区**）
 
-* 在官网注册 Apple ID，建议用 **中国手机号**注册。
+* 注册 Apple ID。
 * 登录 iOS 设备 App Store，**设置国家/地区为尼日利亚**。
 * 此时绑定支付方式界面应出现“None”，若失败可尝试等待或换网络节点（建议使用**全局美国节点**）。
 
@@ -29,7 +30,7 @@
 ### 3. 获取尼日利亚 Apple 充值卡
 
 * 去闲鱼搜索“**尼日利亚 iTunes 卡**”，选择面值为 \*\*9900 NGN（约 55～60 RMB）\*\*的卡。
-* 也可以注册虚拟 Visa/MasterCard（成本约 45～50 RMB，但需额外开卡费）。
+* 也可以注册虚拟 Visa/MasterCard（月订成本约 45～50 RMB，但需额外开卡费）。
 * 购买时选择**评价多、收藏高、信誉良好**的商家。
 
 ### 4. 兑换充值卡余额
@@ -44,17 +45,17 @@
 
 ### 6. 常见问题处理
 
-| 情况       | 解决方案                                     |
+| 错误提示       | 解决方案                                     |
 | -------- | ---------------------------------------- |
 | 暂时无法完成购买 | 等几分钟后再尝试购买                               |
-| 支付失败或被拒  | 致电苹果官方（400-666-8800）并提供充值证明，等待 48 小时解除风控 |
+| 支付失败或被拒，详情致电苹果官方（400-666-8800）  | 提供充值证明，等待 48 小时解除风控 |
 
 ---
 
 ## 🔍 注意事项总结
 
 * 切区操作具有风控风险，**不建议频繁切换 ID 和地区**。
-* 不保证卡密长期可用，建议优先选择售后良好的平台购买。
+* 优先选择售后良好的平台购买，避免黑卡。
 * 该方法属于合法范围内的**地区订阅优化行为**，不构成破解，也未违反 GPT 使用条款。
 
 ---
@@ -68,7 +69,7 @@
 ## ⚠️ Prerequisites & Disclaimer
 
 1. A **valid phone number** (any country) to register Apple ID
-2. An **iOS device** (iOS 16+, iPhone or iPad) that can run ChatGPT app
+2. An **iOS device** (iOS/iPad OS 16+, iPhone or iPad) that can run ChatGPT app
 3. This method is **not a hack**, but a pricing strategy optimization
 4. Any losses from gift card purchase or account issues are **your own responsibility**
 5. **Each Apple ID can only bind to one ChatGPT Plus account**
@@ -108,14 +109,14 @@
 | Issue                                       | Solution                                                                        |
 | ------------------------------------------- | ------------------------------------------------------------------------------- |
 | "Cannot complete purchase now"              | Wait a few minutes and retry                                                    |
-| "Payment declined" or "Verification needed" | Call Apple Support (CN: 400-666-8800) and provide evidence. Wait 48h for review |
+| "Payment declined" or "Verification needed" Call Apple Support (CN: 400-666-8800) |  provide evidence. Wait 48h for review |
 
 ---
 
 ## 🔍 Summary & Warnings
 
 * **Avoid frequent region switching or logging in/out**
-* Gift card codes may vary in validity. Choose sellers with good after-sale support.
+* Choose sellers with good after-sale support.
 * This method is compliant with OpenAI's ToS and Apple's system behavior. It's **optimization, not abuse**.
 
 ---
